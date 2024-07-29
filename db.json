@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Orang",
+      "email": "orang1@orangmail.com",
+      "password": "orang123"
+    },
+    {
+      "id": "2",
+      "name": "Orang Hutan",
+      "email": "oranghutan2@orangmail.com",
+      "password": "oranghutangede"
+    }
+  ]
+}
